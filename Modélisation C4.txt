@@ -1,8 +1,0 @@
-Modélisation C4:
-
---> A partir d'un projet perso/entreprise/ecole
-	-->Faire la modélisation des applications au sein de ce projet
-	a- Diagramme de contexte	|	Si vous avez des frameworks,
-	b- Diagramme de conteneurs	|	quelle est leurs place
-	c- Diagramme de composants	|
-
